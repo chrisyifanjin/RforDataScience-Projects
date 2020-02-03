@@ -1,11 +1,8 @@
 # San Francisco Trees
 
-## Data Description
+## Data sets
 
-
-### Data sets
-
-#### [sf_trees](https://github.com/chrisyifanjin/RforDataScience-Projects/blob/master/San%20Francisco%20Trees/Data/sf_trees.csv) 
+# [sf_trees.csv](https://github.com/chrisyifanjin/RforDataScience-Projects/blob/master/San%20Francisco%20Trees/Data/sf_trees.csv) 
 
 A full data dictionary is available at: [the source](https://data.sfgov.org/City-Infrastructure/Street-Tree-List/tkzw-k3nq) but it's fairly sparse.
 
@@ -25,4 +22,4 @@ address order |
 |latitude     |double    | Latitude |
 |longitude    |double    | Longitude |
 
-#### [Street_Tree_Map](https://github.com/chrisyifanjin/RforDataScience-Projects/blob/master/San%20Francisco%20Trees/Data/Street_Tree_Map.csv)
+### [Street_Tree_Map](https://github.com/chrisyifanjin/RforDataScience-Projects/blob/master/San%20Francisco%20Trees/Data/Street_Tree_Map.csv)
